@@ -62,3 +62,10 @@ code {
 .container.right {
   text-align: right;
 }
+.list {
+  list-style-type: none;
+}
+.list-title {
+  color: dodgerblue;
+  font-weight: bold;
+}
